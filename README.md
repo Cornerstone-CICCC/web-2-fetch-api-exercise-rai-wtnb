@@ -1,4 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/MevG834l)
+
 # Web 2 - Fetch API Exercise
 
 **Goal**: Display weather data on a webpage using Fetch API
@@ -11,9 +12,9 @@
 
 1. Use the Fetch API to fetch current weather information data
 2. Create an `index.html` file and display the weather data on the webpage:
-    - Temperature &  Temperature Unit
-    - Wind Speed & Wind Speed Unit
-    - Timezone
-    - Time (convert it to readable time by using `toLocaleString()`)
+   - Temperature & Temperature Unit
+   - Wind Speed & Wind Speed Unit
+   - Timezone
+   - Time (convert it to readable time by using `toLocaleString()`)
 3. You are free to style it however you like by adding a CSS file
 4. Commit and push your changes once you are done

@@ -1,0 +1,36 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
+
+.temperature-container {
+  font-size: 4em;
+  font-weight: bold;
+  margin: 0.5em 0;
+}
+
+.wind-speed {
+  font-size: 1.5em;
+  margin: 0.5em 0;
+}
+
+.timezone {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: 0.5em 0;
+}
+
+.last-updated {
+  font-size: 1.2em;
+  margin-top: 1em;
+}
